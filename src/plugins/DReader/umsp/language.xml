@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<language>
+		<adCountdown>[$second]</adCountdown>
+		<skipDelay>[$second]</skipDelay>
+		<buttonOver>
+			<play>点击播放</play>
+			<pause>暂停播放</pause>
+			<mute>静音</mute>
+			<escMute>恢复音量</escMute>
+			<full>全屏</full>
+			<escFull>退出全屏</escFull>
+		</buttonOver>
+		<volumeSliderOver>
+			音量：[$volume]%
+		</volumeSliderOver>
+		<buffer>[$percentage]%</buffer>
+		<timeSliderOver>
+			[$timeh]:[$timei]:[$times]
+		</timeSliderOver>
+		<error>
+			<cannotFindUrl>视频地址不存在</cannotFindUrl>
+			<streamNotFound>加载失败</streamNotFound>
+			<formatError>视频格式错误</formatError>
+		</error>
+		<definition>自动</definition>
+		<subtitle>默认</subtitle>
+	</language>

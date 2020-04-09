@@ -1,0 +1,91 @@
+@charset "utf-8";
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select{margin:0;padding:0} 
+body{font:normal 16px "微软雅黑","Arial Narrow",HELVETICA;background:#fff;-webkit-text-size-adjust:100%;color:#666;} 
+a{color:#333;text-decoration:none} 
+a:hover{text-decoration:underline} 
+em{font-style:normal} 
+li{list-style:none} 
+img{border:0;vertical-align:middle} 
+table{border-collapse:collapse;border-spacing:0} 
+p{word-wrap:break-word}
+html,body{
+    height:100%;
+    background-color:#f2f2f2;
+    color:#666;
+}
+input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0px 1000px white inset !important;
+    background-color: rgb(0, 0, 0) !important;
+    background-image: none !important;
+    color: rgb(0, 0, 0) !important;
+    -webkit-tap-highlight-color:rgba(0,0,0,0) !important;
+}
+
+.w{
+    width: 1200px;
+    margin:0px auto;
+}
+.l{
+    float: left;
+}
+.r{
+    float:right;
+}
+
+.header{
+    width: 100%;
+    height: 60px;
+   /* background: linear-gradient(to right,rgba(31,125,179,1),rgba(31,152,152,0.9),rgba(31,179,125,0.9)),no-repeat center;*/
+    color:#FFF;
+}
+
+/* 弹出框title公共 */
+
+.box_div1 .top h2{
+    font-size:16px;
+    padding-left:20px;
+}
+.box_div1 .top h2 i{
+    margin-right:6px;
+}
+.tianjia_btn{
+    margin-top:7px;
+    padding:10px 20px; 
+}
+.box_div1 .el-tag{
+    cursor: pointer;
+}
+
+/* 自定义滚动条 */
+.__rail-is-vertical{
+    z-index:12 !important;
+}
+
+/* 分页 */
+.el-pagination{
+	text-align: right;
+    margin:10px 0;
+    padding-right:30px;
+}
+/* 点击修改选中tr高亮的背景色 */
+.el-table__body tr.current-row>td {
+  background: #88b1ca !important;
+  color:#fff
+}
+/* 修改element-ui的tab拦切换 */
+.el-tabs--border-card>.el-tabs__content {
+    padding:0 15px 0 15px;
+}
+/*loading样式*/
+.el-loading-spinner .el-loading-text{
+	font-size: 16px;
+	color: #ffffff;
+}
+.el-loading-spinner i{
+	font-size: 40px;
+	color: #ffffff;
+}
+/*弹框样式*/
+.el-dialog .el-dialog__body{
+	padding: 10px 20px 20px;
+}

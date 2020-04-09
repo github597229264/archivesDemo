@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing
+END
+ArchivesAuthorize2.vue
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/ArchivesAuthorize2.vue
+END
+BorrowingBook.vue
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/BorrowingBook.vue
+END
+Register.vue
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/Register.vue
+END
+RegisterReturn.vue
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/RegisterReturn.vue
+END
+SelectPersonnelFiles.vue
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/SelectPersonnelFiles.vue
+END
+NoTimerReadingArchivesList.vue
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/NoTimerReadingArchivesList.vue
+END
+Book.vue
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/Book.vue
+END
+AuthorizationList.vue
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/AuthorizationList.vue
+END
+NormalApply.vue
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/NormalApply.vue
+END
+ArchivesAuthorize.vue
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/ArchivesAuthorize.vue
+END
+FileAuthorization.vue
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/FileAuthorization.vue
+END
+NormalSelectPersonnelFiles.vue
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/NormalSelectPersonnelFiles.vue
+END
+NormalApplyMain.vue
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/NormalApplyMain.vue
+END
+ApproveAlert.vue
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/ApproveAlert.vue
+END
+TreeTable.vue
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/TreeTable.vue
+END
+ApplyFileDetail.vue
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/ApplyFileDetail.vue
+END
+TestView.vue
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/TestView.vue
+END
+ApplyRecordList.vue
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/ApplyRecordList.vue
+END
+BorrowApply.vue
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/BorrowApply.vue
+END
+NormalReadingFile.vue
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/NormalReadingFile.vue
+END
+ApplyRecord.vue
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/ApplyRecord.vue
+END
+ApplyMain.vue
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/ApplyMain.vue
+END
+ReadingArchivesList.vue
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/ReadingArchivesList.vue
+END
+TestView2.vue
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/TestView2.vue
+END
+EditPersonnelFiles.vue
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/EditPersonnelFiles.vue
+END
+OutsiderBorrowApply.vue
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/OutsiderBorrowApply.vue
+END
+OutsiderApply.vue
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/OutsiderApply.vue
+END
+FileDReader.vue
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/FileDReader.vue
+END
+ApprovelHistoryList.vue
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/ApprovelHistoryList.vue
+END
+DReader.vue
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/DReader.vue
+END
+OutsideReadingFile.vue
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/OutsideReadingFile.vue
+END
+NormalEditPersonnelFiles.vue
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/NormalEditPersonnelFiles.vue
+END
+ApproveList.vue
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/ApproveList.vue
+END
+TenTypeTree.vue
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/TenTypeTree.vue
+END
+PersonnelsAuthorization.vue
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/PersonnelsAuthorization.vue
+END
+SiteRegister.vue
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/SiteRegister.vue
+END
+CheckReadFile.vue
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/CheckReadFile.vue
+END
+ReadingFile.vue
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/ReadingFile.vue
+END
+FileApprove.vue
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/FileApprove.vue
+END
+NoTimerReadingArchivesSearchList.vue
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/NoTimerReadingArchivesSearchList.vue
+END
+RegisterFileList.vue
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/archivalBorrowing/RegisterFileList.vue
+END

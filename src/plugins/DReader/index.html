@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>电子阅读器</title>
+	</head>
+	<style type="text/css">
+		html,
+		body {
+			background: #fff;
+			margin: 0;
+			padding: 0;
+			width: 100%;
+			height: 100%;
+		}
+		
+		#mainContainer {
+			background: #ccc;
+			height: 100%;
+		}
+		
+		#flashContainer {
+			background: #eee;
+			margin-right: 0;
+			position: relative;
+			height: 100%;
+		}
+	</style>
+	<script type="text/javascript" src="js/umsp-player.js"></script>
+	<script type="text/javascript">
+		var appname = 'arch';
+		var token = 'c179b71f839643899bce954235b0e394';
+		var hostname = '192.168.1.247';
+		var port = 8999;
+		var wmalpha = 0.2;
+		var wmdata = [];
+		var R_ZOOM = 0x01;//全屏
+		var R_PRINT = 0x01 << 2; //打印
+		var R_SHENQING = 0x01 << 4; //打印申请
+		var R_VIEW_WORDS = 0x01 << 5; //查看文字
+		var R_FIT_WIDTH = 0x01 << 6; //横向适应
+		var R_FIT_HEIGHT = 0x01 << 7; //纵向适应
+		var mask = R_ZOOM | R_PRINT | R_SHENQING | R_VIEW_WORDS | R_FIT_WIDTH | R_FIT_HEIGHT;
+		var wmdata1 = [
+				{
+					text: '页号: 00001 档号: 418-1-011 利用人: 郭鑫  打印日期: ' + getNowtime() + '\\n题名: 关于XXXX的通知',
+					linespace: 0.3,
+					multi: true,
+					degree: 0,
+					position: 'left_top', //left_top, right_top, left_bottom, right_bottom, center
+					alpha: wmalpha,
+					font: {
+						name: '方正',
+						size: 20,
+						style: 'normal', //normal, bold
+						color: 0x555555 //red
+					}
+				}
+			/*,{
+			        marker: 'wm/wwm-all1.png',
+			        alpha: wmalpha,
+			        position: 'repeat'
+			    }*/
+			, {
+				text: '复印件',
+				degree: 315,
+				position: 'repeat',
+				alpha: wmalpha,
+				font: {
+					name: '方正',
+					size: 100,
+					style: 'bold',
+					color: 0xff0000
+				}
+			}
+		];
+		var parameters = {
+			tmask: mask,
+			token: token, //授权码
+			appname: appname, //应用ID
+			host: hostname, //主机地址，注意，没有端口号
+			port: port, //服务端口
+			wmdata: wmdata //水印数据
+		};
+		/**
+		 * 获取当前时间
+		 */
+		function getNowtime() {
+			var date = new Date();
+			return date.getYear() + '-' + (date.getMonth() + 1) + '-' + date.getDate();
+		}
+		/**
+		 * 加载文件
+		 * @param {Object} paramsObj
+		 * @param {String} paramsObj.docfile 文件位置
+		 * @param {Array}  paramsObj.HDImage 高清图像数组
+		 * @param {Array}  paramsObj.originalImage 原始图像数组
+		 * @param {Array}  paramsObj.printIndexList 可打印的图片下标列表
+		 * @param {Array}  paramsObj._archArea 文件显示区域(与region字段搭配使用) ，为空则显示完整图片
+		 * @param {Boolean}  paramsObj.region 是否开启区域授权功能  false=只显示区域图片
+		 */
+		function loadFile(paramsObj) {
+			if(window.reader) {
+				//不显示打印申请按钮
+				parameters.tmask = parameters.tmask-16;
+				//不显示打印按钮
+				if(paramsObj.printIndexList.length == 0){
+					parameters.tmask = parameters.tmask-4;
+				}
+				//路径规则： umsp主路径   原始/高清图像文件夹路径    parameters.file文件位置
+				parameters.imgtype_YS_Arr = paramsObj.originalImage; //版本为V2时，该参数为原始图像文件MD5值列表
+				parameters.imgtype_GQ_Arr = paramsObj.HDImage; //版本为V2时，该参数为高清图像文件MD5值列表
+				parameters.file = paramsObj.docfile; //文件位置
+				//parameters.displayName = displayName; //默认打开的文件 ，不写默认是第一个文件 如：默认打开002.JPG
+				parameters.defaultimgtype = 0; //0代表原始图像 1代表高清图像 不赋值默认是0
+				parameters.viewIndexVisiable = true; //是否显示索引，注意，只有多页文件有效，如：pdf/tiff（未来支持的doc、docx）
+				parameters.fit = 1; //0代表页面适应宽度，1代表页面适应高度  在有区域授权的情况下，必须为1，否则区域授权无效
+				parameters.archArea = paramsObj._archArea, //文件显示区域 注意：region=true 会在右侧显示区域的内容，否则只加载区域内的图片
+				parameters.region = paramsObj.region;//是否开启区域授权功能，不写默认不开启
+				parameters.regionDisplay = false; //区域显示 默认为true true的情况下，用户只能查看授权的区域。 false ：用户不能查看授权的区域
+				parameters.printJurisdiction=paramsObj.printIndexList;//可打印的图片下标列表
+				parameters.edition = "V2";//版本号
+				reader.load(parameters); //请求加载
+			} else {
+				alert('阅读器正在加载中，请稍后...');
+			}
+		}
+		/**
+		 * 生成打印记录，点击打印按钮后调用此方法
+		 * @param {Object} page
+		 */
+		function sendPrintRecord(page) {
+			//page ： 打印的页次 如区间 1-10  或者单页 2
+		}
+		/**
+		 * 生成浏览记录，每浏览图片时候自动调用此方法，
+		 * @param {Object} pageIndex
+		 */
+		function sendViewRecord(pageIndex) {
+			//pageIndex ： 打印的序号 
+		}
+		/**
+		 * 打印申请 ，点击打印申请按钮后调用此方法
+		 * @param {Object} page
+		 */
+		function sendCheckPages(page) {
+			//page ： 打印的页次 如区间 1-10  或者单页 2
+		}
+
+		/**
+		 * 提交区域 多页浏览
+		 * @param {Array} parameters
+		 */
+		function getRegionData(parameters) {
+			//返回的parameters为数组对象
+			var regionData = parameters[0]; //regionData为数组对象
+			var fileName = parameters[1]; //fileName为当前显示的图片名称
+			console.info(parameters);
+			window.parent["vueIframeId"](parameters);//调用id为vueIframeId的父vue中的回调方法
+		}
+		/**
+		 * 监听load事件
+		 */
+//		window.onload = function() {
+//			_umsp_reader_baseuri = "umsp";
+//			window.reader = UMSPHelper.createReader('#flashContainer');
+//			loadFile('/.cadremultip', '干档双页模式',[],[],[]);
+//			//loadFile('00000002/01/4/.cadremultip', '干档多页模式');
+//		}
+		/**
+		 * 初始化阅读器
+		 * @param {Object} initParamsObj初始化参数对象
+		 * @param {Array} initParamsObj.HD 高清图片列表
+		 * @param {Array} initParamsObj.oldPicture 原始图片列表
+		 * @param {Array} initParamsObj.aPrintIndexs 可打印的图片下标数组
+		 * @param {Array} initParamsObj._archArea 文件显示区域
+		 * @param {Boolean} initParamsObj.region 是否开启区域授权功能
+		 */
+		function initReader(initParamsObj){			
+			setTimeout(()=>{
+				let paramsObj=vueDataConverter({
+					docfile:'/.cadremultip',// 文件位置
+					HDImage:initParamsObj.HD,// 高清图像数组
+					originalImage:initParamsObj.oldPicture,// 原始图像数组
+					printIndexList:initParamsObj.aPrintIndexs,// 可打印的图片下标列表
+					_archArea:initParamsObj._archArea, //文件显示区域
+					region:initParamsObj.region //是否开启区域授权功能
+				});
+				console.log(paramsObj);
+				_umsp_reader_baseuri = "umsp";
+				window.reader = UMSPHelper.createReader('#flashContainer');
+				loadFile(paramsObj);
+			},0);
+		}
+		/**
+		 * vue数据转换器
+		 * @desc 将vue数据转换为纯粹的json数据
+		 * @param {Object||Array} vueObject 数据源
+		 * @return {Object||Array} result 转换后的纯粹数据
+		 */
+		function vueDataConverter(vueObject) {
+		    var result = null;
+		    var type = Object.prototype.toString.call(vueObject);
+		    switch (type) {
+		        case '[object Array]':
+		            result = toArray(vueObject);
+		            break;
+		        case '[object Object]':
+		            result = toObject(vueObject);
+		            break;
+		        default:
+		            result = vueObject;
+		            break;
+		    };
+		    function toArray(vueArray) {
+		        var array = [];
+		        for (var index in vueArray) {
+		            var item = vueDataConverter(vueArray[index]);
+		            array.push(item);
+		        }
+		        return array;
+		    }
+		    function toObject(vueObject) {
+		        var obj = new Object();
+		        for (var index in vueObject) {
+		            var item = vueDataConverter(vueObject[index]);
+		            obj[index] = item;
+		        }
+		        return obj;
+		    }
+		    return result;
+		};
+	</script>
+	<body>
+		<div id="mainContainer">
+			<div id="flashContainer"></div>
+		</div>
+	</body>
+</html>

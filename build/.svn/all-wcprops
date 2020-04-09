@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/build
+END
+vue-loader.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/build/vue-loader.conf.js
+END
+logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/build/logo.png
+END
+webpack.base.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/build/webpack.base.conf.js
+END
+webpack.dev.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/build/webpack.dev.conf.js
+END
+build.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/build/build.js
+END
+utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/build/utils.js
+END
+webpack.prod.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/build/webpack.prod.conf.js
+END
+check-versions.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/build/check-versions.js
+END

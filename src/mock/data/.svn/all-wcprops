@@ -1,0 +1,695 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/03-Src_Java/!svn/ver/15361/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data
+END
+configurationWorkList.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/configurationWorkList.js
+END
+organization-area.json
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/organization-area.json
+END
+notSelectedUser.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/notSelectedUser.js
+END
+applyFileDetail.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/applyFileDetail.js
+END
+GetPagerJson1.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/GetPagerJson1.js
+END
+selectList.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/selectList.js
+END
+findSysArchClassify.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findSysArchClassify.js
+END
+findPowerArchPowerOrgPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findPowerArchPowerOrgPage.js
+END
+findA01sById.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findA01sById.js
+END
+findAnnualAppraisalInformationPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findAnnualAppraisalInformationPage.js
+END
+commonDataManagement.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/commonDataManagement.js
+END
+getA01.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getA01.js
+END
+getConsultObj.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getConsultObj.js
+END
+findA02InformationPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findA02InformationPage.js
+END
+editA01.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/editA01.js
+END
+editA31.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/editA31.js
+END
+findA06InformationPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findA06InformationPage.js
+END
+userInfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/userInfo.js
+END
+findA08InformationPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findA08InformationPage.js
+END
+findeUserPageInfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findeUserPageInfo.js
+END
+editBada.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/editBada.js
+END
+findPowerArchPoweExcludePage.js
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findPowerArchPoweExcludePage.js
+END
+queryAll.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/queryAll.js
+END
+getArchApplyInfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getArchApplyInfo.js
+END
+getConsultElectronInfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getConsultElectronInfo.js
+END
+managementArchivesUnit.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/managementArchivesUnit.js
+END
+materialtransfer.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/materialtransfer.js
+END
+entityorelectronicfilesbutton.js
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/entityorelectronicfilesbutton.js
+END
+vuetable.json
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/vuetable.json
+END
+findCommonPowerUser.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findCommonPowerUser.js
+END
+addMaterial.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/addMaterial.js
+END
+viewAdjustment.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/viewAdjustment.js
+END
+GetAllHandelandArchive.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/GetAllHandelandArchive.js
+END
+recommend.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/recommend.js
+END
+GetPagerE01Z2Json.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/GetPagerE01Z2Json.js
+END
+fileList.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/fileList.js
+END
+GetSysCadreCodeDetailsPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/GetSysCadreCodeDetailsPage.js
+END
+getList.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getList.js
+END
+GetPagerE01Z500Json.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/GetPagerE01Z500Json.js
+END
+getWarehouseInfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getWarehouseInfo.js
+END
+GetAllreturnandforward.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/GetAllreturnandforward.js
+END
+fileSelectionList.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/fileSelectionList.js
+END
+borrowBookList.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/borrowBookList.js
+END
+getBorrowingInfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getBorrowingInfo.js
+END
+findB01A01InformationPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findB01A01InformationPage.js
+END
+findA17InformationPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findA17InformationPage.js
+END
+findPowerArchPowerPersonPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findPowerArchPowerPersonPage.js
+END
+findA36InformationPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findA36InformationPage.js
+END
+getViewFiles.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getViewFiles.js
+END
+getApprovaled.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getApprovaled.js
+END
+materialReceiveList.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/materialReceiveList.js
+END
+addtransfer.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/addtransfer.js
+END
+dataDictionary.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/dataDictionary.js
+END
+findAuthorizedfilesPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findAuthorizedfilesPage.js
+END
+editA38.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/editA38.js
+END
+menuManagement.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/menuManagement.js
+END
+queryMetadataList.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/queryMetadataList.js
+END
+getApplicationRecord.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getApplicationRecord.js
+END
+quertMaterialType1.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/quertMaterialType1.js
+END
+findPowerArchPowerOrgs.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findPowerArchPowerOrgs.js
+END
+addMaterialReceiving.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/addMaterialReceiving.js
+END
+getStations.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getStations.js
+END
+systemSettings.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/systemSettings.js
+END
+siteRegisterList.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/siteRegisterList.js
+END
+userGroupTreeList.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/userGroupTreeList.js
+END
+queryRecycleList.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/queryRecycleList.js
+END
+findUserListPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findUserListPage.js
+END
+queryByPageLists.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/queryByPageLists.js
+END
+GetPagerE01Z5Json.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/GetPagerE01Z5Json.js
+END
+findByE01Z700Id.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findByE01Z700Id.js
+END
+quetycount.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/quetycount.js
+END
+saveOrUpdateA2930.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/saveOrUpdateA2930.js
+END
+addBorrow.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/addBorrow.js
+END
+article.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/article.js
+END
+getOrganizationTree.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getOrganizationTree.js
+END
+findRoles.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findRoles.js
+END
+findA01InformationPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findA01InformationPage.js
+END
+findA01ByUserIdPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findA01ByUserIdPage.js
+END
+GetPagerJson.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/GetPagerJson.js
+END
+findA05InformationPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findA05InformationPage.js
+END
+getLookArchives.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getLookArchives.js
+END
+findB00ById.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findB00ById.js
+END
+findA09InformationPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findA09InformationPage.js
+END
+findUserOrgRelationById.js
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findUserOrgRelationById.js
+END
+GetPagerE01Z41Json.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/GetPagerE01Z41Json.js
+END
+users.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/users.js
+END
+findA2930InformationPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findA2930InformationPage.js
+END
+dataCode.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/dataCode.js
+END
+addFileClearUp.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/addFileClearUp.js
+END
+getA01s.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getA01s.js
+END
+getApprovals.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getApprovals.js
+END
+getConsultKindInfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getConsultKindInfo.js
+END
+materialCollection.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/03-Src_Java/!svn/ver/15361/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/materialCollection.js
+END
+findNotPowerArchPoweExcludePage.js
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findNotPowerArchPoweExcludePage.js
+END
+user.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/user.js
+END
+GetPagerE01Z700Json.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/GetPagerE01Z700Json.js
+END
+registerFileList.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/registerFileList.js
+END
+quertMaterialType.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/quertMaterialType.js
+END
+getArchivesTree.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getArchivesTree.js
+END
+SystemLog.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/SystemLog.js
+END
+getSysCadreCodeDetailList.js
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getSysCadreCodeDetailList.js
+END
+editA02.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/editA02.js
+END
+getA01BySplit.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getA01BySplit.js
+END
+areaTree.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/03-Src_Java/!svn/ver/16041/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/areaTree.js
+END
+queryByPageList.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/queryByPageList.js
+END
+findA52InformationPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findA52InformationPage.js
+END
+findBadaInformationPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findBadaInformationPage.js
+END
+materialBatchList.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/materialBatchList.js
+END
+roleManagement.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/roleManagement.js
+END
+fileCheckStandard.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/fileCheckStandard.js
+END
+findA01ByOrgIdPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findA01ByOrgIdPage.js
+END
+findUserOrganizationList.js
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/findUserOrganizationList.js
+END
+getFileAuthorization.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getFileAuthorization.js
+END
+getA01BySite.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getA01BySite.js
+END
+getArchivesLogByA0100.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/mock/data/getArchivesLogByA0100.js
+END

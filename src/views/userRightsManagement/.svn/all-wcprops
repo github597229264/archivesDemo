@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/03-Src_Java/!svn/ver/15342/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/userRightsManagement
+END
+AddOrEditUsers.vue
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/userRightsManagement/AddOrEditUsers.vue
+END
+AddOrEditRole.vue
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/userRightsManagement/AddOrEditRole.vue
+END
+SortUser.vue
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/03-Src_Java/!svn/ver/15332/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/userRightsManagement/SortUser.vue
+END
+SortSelectUser.vue
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/03-Src_Java/!svn/ver/15332/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/userRightsManagement/SortSelectUser.vue
+END
+PasswordInit.vue
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/userRightsManagement/PasswordInit.vue
+END
+UserGroupManagement.vue
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/03-Src_Java/!svn/ver/15332/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/userRightsManagement/UserGroupManagement.vue
+END
+SetRolePower.vue
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/userRightsManagement/SetRolePower.vue
+END
+AddOrEditUsersGroup.vue
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/userRightsManagement/AddOrEditUsersGroup.vue
+END
+RoleManagement.vue
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/03-Src_Java/!svn/ver/15342/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/userRightsManagement/RoleManagement.vue
+END
+UserRole.vue
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/userRightsManagement/UserRole.vue
+END
+SortRole.vue
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/03-Src_Java/!svn/ver/15342/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/userRightsManagement/SortRole.vue
+END
+UsersInRole.vue
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/userRightsManagement/UsersInRole.vue
+END
+UserManagement.vue
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/03-Src_Java/!svn/ver/15332/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/userRightsManagement/UserManagement.vue
+END
+SetUserRole.vue
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/userRightsManagement/SetUserRole.vue
+END
+GetRolePower.vue
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/03-Src_Java/!svn/ver/15229/products/hxcpams/code/gandangWeb/branches/gandang-Group-20190629/src/views/userRightsManagement/GetRolePower.vue
+END
